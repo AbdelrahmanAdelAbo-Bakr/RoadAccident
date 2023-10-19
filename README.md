@@ -1,11 +1,11 @@
 # Data Analysis Project By Excel
 
 **Requirements:**
-•	Make a Dashboard for Road Accidents for the Years 2021 and 2022, Show the Total Number of Casualties.
-•	Casualties per Type of Vehicle.
-•	Comparison of the Monthly Trends in Casualties for 2021 & 2022.
-•	Maximum Casualties by Road Type.
-•	Total Casualty Distribution by Road Surface relationship between Casualties by Area, Location, and Day/Night.
+1. Make a Dashboard for Road Accidents for the Years 2021 and 2022, Show the Total Number of Casualties.
+2. Casualties per Type of Vehicle.
+3. Comparison of the Monthly Trends in Casualties for 2021 & 2022.
+4. Maximum Casualties by Road Type.
+5. Total Casualty Distribution by Road Surface relationship between Casualties by Area, Location, and Day/Night.
 
 **Steps for Project:**
 1. Data Cleaning.
